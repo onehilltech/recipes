@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ab982c8b-8ea2-46f4-bfe1-3dcf8fb52e1d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/recipes.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deployment/nginx/emberjs.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deployment/nginx/nodejs.conf" afterDir="false" />
-    </list>
+    <list default="true" id="ab982c8b-8ea2-46f4-bfe1-3dcf8fb52e1d" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,7 +30,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1597359960369</updated>
-      <workItem from="1597359961515" duration="1586000" />
+      <workItem from="1597359961515" duration="1719000" />
     </task>
     <servers />
   </component>
